@@ -2,7 +2,10 @@
 This Rebo contains all projects in subject Applied Machine Learning that I worked on during my master in Ottawa University.
 #### The Final Project: Forest Cover Type Prediction
 It is a supervised machine learning classification problem. The objective is to predict the forest cover type (represented as integers) for each 30m x 30m patch in the forest, based on various geographical and environmental features.
-### Methodology
+### End-to-End Flowchart
+![image](https://github.com/AyaElshazly/Applied-Machine-Learning/assets/88162799/921ef7c0-f705-43fd-97d9-6d32e9e3d5a4)
+
+### Models 
 Apply these five algorithms, Plot confusion matrix and calculate the accuracy for each model: 
 - KNN 
 - LogisticRegression
